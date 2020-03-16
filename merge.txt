@@ -1,3 +1,4 @@
 content to append
 content to append
 some text added to merge
+this text is a new addition
