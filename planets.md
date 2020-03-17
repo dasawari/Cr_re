@@ -1,1 +1,1 @@
-No of planets are
+No of planets areNinth planet is pluto
