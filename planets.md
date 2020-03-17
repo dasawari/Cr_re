@@ -1,1 +1,1 @@
-No of planets are
+No of planets on earth are 8.
